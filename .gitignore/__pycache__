@@ -1,0 +1,5 @@
+*.pyc
+.vscode/
+.env
+results/*.json
+results/*.txt

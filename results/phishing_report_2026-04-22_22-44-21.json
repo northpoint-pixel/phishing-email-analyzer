@@ -1,0 +1,26 @@
+{
+    "sender_email": "support@micr0soft-login-alert.com",
+    "sender_domain": "micr0soft-login-alert.com",
+    "urls_found": [
+        "http://micr0soft-login-alert.com/verify"
+    ],
+    "attachment": "invoice.zip",
+    "risk_level": "HIGH",
+    "findings": [
+        "Suspicious keyword detected: 'urgent'",
+        "Suspicious keyword detected: 'immediately'",
+        "Suspicious keyword detected: 'verify your account'",
+        "Suspicious keyword detected: 'click here'",
+        "Suspicious keyword detected: 'login now'",
+        "Suspicious keyword detected: 'confirm your password'",
+        "Suspicious keyword detected: 'suspended'",
+        "Suspicious keyword detected: 'unusual activity'",
+        "Suspicious keyword detected: 'security alert'",
+        "Sender email found: support@micr0soft-login-alert.com",
+        "Link detected: http://micr0soft-login-alert.com/verify",
+        "Untrusted or unknown domain detected: micr0soft-login-alert.com",
+        "URL contains phishing-related wording",
+        "Attachment detected: invoice.zip",
+        "Suspicious attachment type detected: .zip"
+    ]
+}

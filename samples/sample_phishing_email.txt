@@ -1,0 +1,13 @@
+From: Microsoft Support <support@micr0soft-login-alert.com>
+Subject: Urgent Security Alert - Verify Your Account Immediately
+
+Dear User,
+
+We detected unusual activity on your account. Your account will be suspended unless you verify your information immediately.
+
+Click here to login now:
+http://micr0soft-login-alert.com/verify
+
+Please confirm your password and billing information to avoid service interruption.
+
+Attachment: invoice.zip
